@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 I am a Product Manager that likes to build and learn while doing so.
 
-- 🔭 I’m currently working on [toolsforindiehackers](https://toolsforindiehackers.com/) [RateMyIdeas](https://ratemyideas.com), [The A.Idvisor](https://theaidvisor.com/)
+- 🔭 I’m currently working on [homeoffounders](https://homeoffounders.com.com/)
 - 💪 I'm most comfortable with Data Engineering; stack: Python, SQL, GCP
 - 🌱 I’m currently learning Web Development, React, Firebase 
 - 👯 I’m looking to collaborate on anything cool
