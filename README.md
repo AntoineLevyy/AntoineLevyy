@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-I am an early stage non-technical founder that likes to build and learn while doing so.
+Product and growth guy building and distributing AI applications.
 
-- 🔭 I’m currently working on [Adsperform](https://www.adsperform.com/)
+- 🔭 I’m currently building the AI assistant for moms, [Alma](https://www.almahelps.com/)
 - 💪 I'm most comfortable with Web Development and Data Engineering; 
 - 🌱 MVP Stack: Cursor,Vercel, Supabase
 - 👯 I’m looking to collaborate on anything cool
