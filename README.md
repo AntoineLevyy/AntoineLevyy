@@ -36,4 +36,4 @@ This is the way to bring personal assistants to the non-tech world.
 - **Personal assistants** Building personal assistants to enhance us.
 
 
-[LinkedIn](https://www.linkedin.com/in/antoine-levyy/)) · [Get in touch](mailto:antoine.levy27@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/antoine-levyy/) · [Get in touch](mailto:antoine.levy27@gmail.com)
