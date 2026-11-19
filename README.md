@@ -1,19 +1,35 @@
-## Hi there 👋
+# Hey, I’m Antoine 👋
 
-<!--
-**AntoineLevyy/AntoineLevyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and distribute AI products. My background spans product, growth,
+and taking ideas from early prototypes to real customers.
 
-Here are some ideas to get you started:
+French-American, based in San Francisco. Former professional
+soccer player.
 
--->
+## Currently building
 
-Product and growth guy building and distributing AI applications.
+**Alma: the AI assistant for moms.**
 
-- 🔭 I’m currently building the AI assistant for moms, [Alma](https://www.almahelps.com/)
-- 💪 I'm most comfortable with Web Development and Data Engineering; 
-- 🌱 MVP Stack: Cursor,Vercel, Supabase
-- 👯 I’m looking to collaborate on anything cool
-- 🌐 Website: [antoinelevy.com](https://antoinelevy.com)
-- 📫 Reach out to me on: [X](https://x.com/AntoineLevy27), [Linkedin](https://www.linkedin.com/in/antoine-l%C3%A9vy-653106201/)
+![Alma — the AI assistant for moms](Alma%20AI%20Assistant%20Hero%20Banner.png)
 
+Helping moms manage meals, groceries, reminders, school
+and the everyday work of running a household.
 
+I believe moms are the most in need of personal assistants and no general assistant is currently solving their specific issues well enough, nor speaking to them in the right way.
+
+This is the way to bring personal assistants to the non-tech world.
+
+[Check out Alma](https://almahelps.com)
+
+## Previously
+
+- **Neon Blue:** Founding GTM at an AI startup.
+- **Publicis Groupe:** Built and commercialized products for
+  Fortune 500 clients, driving $20M+ in incremental revenue.
+
+## What interests me
+
+Useful AI agents, thoughtful consumer products, and finding
+repeatable ways to turn early demand into a business.
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Get in touch](mailto:YOUR_EMAIL)
