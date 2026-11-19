@@ -24,12 +24,16 @@ This is the way to bring personal assistants to the non-tech world.
 ## Previously
 
 - **Neon Blue:** Founding GTM at an AI startup.
+- **Entrepreneur First:** Co-founded an automated QA startup,
+  raised a pre-seed round, and developed the product alongside
+  partner companies.
 - **Publicis Groupe:** Built and commercialized products for
   Fortune 500 clients, driving $20M+ in incremental revenue.
 
 ## What interests me
 
-Useful AI agents, thoughtful consumer products, and finding
-repeatable ways to turn early demand into a business.
+- **AI leverage for startups** Pushing the boundaries of automated GTM, strategy, product and engineering and seeing how close we tend towards the self-running company.
+- **Personal assistants** Building personal assistants to enhance us.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Get in touch](mailto:YOUR_EMAIL)
+
+[LinkedIn](https://www.linkedin.com/in/antoine-levyy/)) · [Get in touch](mailto:antoine.levy27@gmail.com)
